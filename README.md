@@ -8,7 +8,7 @@ IDE used: Android Studio
 
 Language used: Kotlin 1.5.10
 
-Backend Database and server: Firebase
+Backend Database: Firebase for authentication- cloud database fire store
 
 
 
